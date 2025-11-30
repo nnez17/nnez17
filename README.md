@@ -1,5 +1,14 @@
 # 💫 About Me:
-🌸 About Me<br><br>Hi, I’m Noval — a student who’s passionate about technology, creativity, and storytelling.<br>I love discovering how imagination and logic can work together through coding, design, and writing. Even though I’m still in school, I’m always eager to learn new things, take on creative challenges, and improve myself every day.<br><br>I’m currently learning HTML, CSS, and JavaScript, focusing on front-end development and how to make web designs more interactive and meaningful. I also enjoy exploring how art and emotion can be expressed through digital projects.<br><br>I’m always open to learning from others, collaborating on small but inspiring projects, and sharing ideas that combine both creativity and technology.<br><br>A little fun fact — I once had a memorable experience in Dieng, and it still inspires a lot of my creative work today. I believe inspiration can come from anywhere, even from the quietest places and the simplest moments. 🌱<br><br>✨ Thanks for stopping by! Let’s keep growing and creating together.
+🌸 About Me
+
+Hi, I’m Noval — a Software Developer who enjoys creating meaningful and interactive digital experiences.
+I’m passionate about how logic and creativity can work together through coding, design, and problem-solving.
+
+I’m currently focusing on web development using HTML, CSS, and JavaScript, especially in front-end development. I love exploring how to build clean, responsive interfaces and improve user experiences through thoughtful design.
+
+I’m always open to learning new technologies, collaborating on projects, and sharing ideas that connect creativity with innovation. My goal is to keep growing as a developer while building projects that inspire and make an impact.
+
+✨ Thanks for stopping by! Let’s create something amazing together.
 
 
 ## 🌐 Socials:
