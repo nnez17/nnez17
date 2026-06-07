@@ -1,25 +1,44 @@
-# 💫 About Me:
-Hi, I’m Noval — a Software Developer who enjoys creating meaningful and interactive digital experiences.
-I’m passionate about how logic and creativity can work together through coding, design, and problem-solving.
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Noval%20Akbar&section=header" />
 
-I’m currently focusing on web development using HTML, CSS, and JavaScript, especially in front-end development. I love exploring how to build clean, responsive interfaces and improve user experiences through thoughtful design.
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a>
 
-I’m always open to learning new technologies, collaborating on projects, and sharing ideas that connect creativity with innovation. My goal is to keep growing as a developer while building projects that inspire and make an impact.
+<svg xmlns="http://www.w3.org/2000/svg" height="16px" viewBox="0 -960 960 960" width="16px" fill="#6b7280"><path d="M536.5-503.5Q560-527 560-560t-23.5-56.5Q513-640 480-640t-56.5 23.5Q400-593 400-560t23.5 56.5Q447-480 480-480t56.5-23.5ZM480-186q122-112 181-203.5T720-552q0-109-69.5-178.5T480-800q-101 0-170.5 69.5T240-552q0 71 59 162.5T480-186Zm0 106Q319-217 239.5-334.5T160-552q0-150 96.5-239T480-880q127 0 223.5 89T800-552q0 100-79.5 217.5T480-80Zm0-480Z"/></svg> Indonesia
 
-✨ Thanks for stopping by! Let’s create something amazing together.
+</div>
 
+## 🧠 About
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avalgaloz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nopalloz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@avalgaloz])
+A student who is passionate about technology, creativity, and storytelling. I love discovering how imagination and logic can work together through coding, design, and writing. As a frontend developer, I turn ideas into clean, functional interfaces. Every project is a chance to refine my craft and build something that feels right.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+Also contributing to [tiga-searah](https://github.com/tiga-searah), a GitHub organization where we explore and build open-source projects together.
 
-# 📊 GitHub Stats:
+> _"Let's keep growing and creating together."_
+
+## 💻 Tech Stack
+
+| Category  | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Languages | <img src="https://svgl.app/library/html5.svg" width="16" /> HTML · <img src="https://svgl.app/library/css.svg" width="16" /> CSS · <img src="https://svgl.app/library/javascript.svg" width="16" /> JavaScript · <img src="https://svgl.app/library/typescript.svg" width="16" /> TypeScript · <img src="https://svgl.app/library/csharp.svg" width="16" /> C#                                                                                                                                                                                               |
+| Frontend  | <img src="https://svgl.app/library/react_dark.svg" width="16" /> React · <img src="https://svgl.app/library/nextjs_icon_dark.svg" width="16" /> Next.js · <img src="https://svgl.app/library/svelte.svg" width="16" /> Svelte · <img src="https://svgl.app/library/astro-icon-dark.svg" width="16" /> Astro · <img src="https://svgl.app/library/tailwindcss.svg" width="16" /> Tailwind CSS · <img src="https://svgl.app/library/radix-ui_dark.svg" width="16" /> Radix UI · <img src="https://svgl.app/library/shadcn-ui_dark.svg" width="16" /> Shadcn UI |
+| Runtime   | <img src="https://svgl.app/library/nodejs.svg" width="16" /> Node.js · <img src="https://svgl.app/library/bun.svg" width="16" /> Bun                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Tooling   | <img src="https://svgl.app/library/git.svg" width="16" /> Git · <img src="https://svgl.app/library/github_dark.svg" width="16" /> GitHub · <img src="https://svgl.app/library/vite.svg" width="16" /> Vite · <img src="https://svgl.app/library/eslint-icon-dark.svg" width="16" /> ESLint · <img src="https://svgl.app/library/biomejs.svg" width="16" /> Biome · <img src="https://svgl.app/library/prettier-icon-dark.svg" width="16" /> Prettier                                                                                                         |
+| Design    | <img src="https://svgl.app/library/figma.svg" width="16" /> Figma                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+
+## 🌐 Connect
+
+[<img src="https://svgl.app/library/github_dark.svg" width="18" />](https://github.com/nnez17) [GitHub](https://github.com/nnez17)
+· [<img src="https://svgl.app/library/linkedin.svg" width="18" />](https://www.linkedin.com/in/noval-akbar-5342343a4/) [LinkedIn](https://www.linkedin.com/in/noval-akbar-5342343a4/)
+· [<img src="https://svgl.app/library/youtube.svg" width="18" />](https://youtube.com/@avalgaloz) [YouTube](https://youtube.com/@avalgaloz)
+· [<img src="https://svgl.app/library/instagram-icon.svg" width="18" />](https://instagram.com/avalgaloz) [Instagram](https://instagram.com/avalgaloz)
+· [novala1710@gmail.com](mailto:novala1710@gmail.com)
+
+## 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=nnez17&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nnez17&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nnez17&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
