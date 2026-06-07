@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Noval%20Akbar&section=header&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Noval%20Akbar&fontColor=fff" />
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=FrontEnd+Developer" alt="Typing SVG" /></a>
